@@ -1,4 +1,4 @@
-# Stock Market Forecasting
+# Stock Prediction Forecasting
 
 - Objective:
 To predict the stock price of any company by using LSTM.
